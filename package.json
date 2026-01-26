@@ -13,5 +13,14 @@
   "dependencies": {
     "discord.js": "^14.25.1",
     "dotenv": "^17.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericqaspiel/DiscordBotTester.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericqaspiel/DiscordBotTester/issues"
+  },
+  "homepage": "https://github.com/ericqaspiel/DiscordBotTester#readme"
 }
